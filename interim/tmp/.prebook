@@ -12,8 +12,8 @@
     "innerHtml": "Special thanks to Michael Canyes, Mack Truslow, David Fay Smith, Don Carrol, Robert B. Wyatt, Richard McCoy, Frank Lavena, Pat Ehresmann, Ruth Aley and Berenice Hoffman."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "h4",
+    "innerHtml": "The Silicon Jungle"
   },
   {
     "tag": "p",
@@ -88,22 +88,10 @@
   },
   {
     "tag": "p",
-    "innerHtml": "DON’T FALL FOR THE SOFT SELL—OR"
+    "innerHtml": "DON’T FALL FOR THE SOFT SELL OR HARD SELL."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Hard Sell."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h5",
     "innerHtml": "The Computer Business Is A Jungle."
   },
   {
@@ -123,20 +111,8 @@
     "innerHtml": "Especially beware of the computer hawker who says he’s a “technician” with your interest in mind."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "But Remember That Good Guys"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Can Finish First."
+    "tag": "h5",
+    "innerHtml": "But Remember That Good Guys Can Finish First."
   },
   {
     "tag": "p",
@@ -151,20 +127,8 @@
     "innerHtml": "AVOID THE SNACK-FOOD PROGRAMS—THE"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Ones Easy To Learn"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "But Less Satisfying To Use."
+    "tag": "h5",
+    "innerHtml": "Ones Easy To Learn But Less Satisfying To Use."
   },
   {
     "tag": "p",
@@ -179,20 +143,8 @@
     "innerHtml": "Some marketeers are trying to displace good, solid business programs with Twinkie-like products that <em>sell</em> well but don’t <em>work</em> well."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Learn About Computers"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "As They Relate To Your Job."
+    "tag": "h5",
+    "innerHtml": "Learn About Computers As They Relate To Your Job."
   },
   {
     "tag": "p",
@@ -215,19 +167,15 @@
     "innerHtml": "Micros can be efficient and humane at the same time. Don’t confuse The Silicon Jungle with Winning through Intimidation. Often, for instance, some humanity can improve your efficiency by lowering the number of errors your people may make. This book tells how to choose equipment that’s easiest on your people’s eyes and backbones."
   },
   {
-    "tag": "p",
-    "innerHtml": "BONE UP ON COMPUTER CRIME—BUT"
+    "tag": "h5",
+    "innerHtml": "Bone Up On Computer Crime—but"
   },
   {
-    "tag": "p",
-    "innerHtml": "DON’T NEGLECT ROUTINE WAYS OF MAKING YOUR"
+    "tag": "h5",
+    "innerHtml": "Don’t Neglect Routine Ways Of Making Your"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h5",
     "innerHtml": "Electronic Records Safe."
   },
   {
@@ -244,19 +192,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "IF IT’S RIGHT FOR YOUR"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "COMPANY—AND PERHAPS SAVE"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Thousands In Office Rents."
+    "innerHtml": "IF IT’S RIGHT FOR YOUR COMPANY—AND PERHAPS SAVE THOUSANDS IN OFFICE RENTS."
   },
   {
     "tag": "p",
@@ -272,15 +208,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "YOU’LL JUSTIFY YOUR"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Travail."
+    "innerHtml": "YOU’LL JUSTIFY YOUR TRAVAIL."
   },
   {
     "tag": "p",
@@ -335,6 +263,10 @@
     "innerHtml": "Ranging over many topics, it may come across as a series of essays rather than a normal guide. So be it. I’m not going to cheat you of helpful facts that <em>most</em> readers won’t care about or that are far removed from the main thrusts of the chapters. You may be desperate for this very material. And items at the ends of the chapters will refer you to “Backup: More Tales and Tips from the Jungle.” “Backup” follows my main book."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "Break Out Of The Users-guide Ghetto."
   },
@@ -353,10 +285,6 @@
   {
     "tag": "p",
     "innerHtml": "Many good paths wind through the Silicon Jungle."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -470,7 +398,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "A California professor says by 1990 as many as 10 million U.S. workers could be tapping away on keyboards at home. In Chapter 11, you’ll learn how you may be able to “telecommute” within weeks or months if (1 your boss and company are sympathetic and (2 your office politics permit you to do so without harming your career. Why wait for official telecommuting programs from corporate headquarters? Chapter 11 advocates nothing less than a grass-roots telecommuting movement by corporate writers, programmers, salespeople, and working mothers. Toting up the savings that telecommuting can yield, more and more corporations will encourage experiments. Many people—though not all—thrive on it. ) )"
+    "innerHtml": "A California professor says by 1990 as many as 10 million U.S. workers could be tapping away on keyboards at home. In Chapter 11, you’ll learn how you may be able to “telecommute” within weeks or months if (1 your boss and company are sympathetic and (2 your office politics permit you to do so without harming your career. Why wait for official telecommuting programs from corporate headquarters? Chapter 11 advocates nothing less than a grass-roots telecommuting movement by corporate writers, programmers, salespeople, and working mothers. Toting up the savings that telecommuting can yield, more and more corporations will encourage experiments. Many people—though not all—thrive on it. ))"
   },
   {
     "tag": "p",
@@ -485,8 +413,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "Chapter 12, “How I Found ‘God’ On MCI (And A Few Other Odds And Ends About Electronic Mail),” Tells More About Sending Computer Messages Over The Phone Lines. Some E-mail Nets Even Link Up With The Old Telex Networks. During The Writing Of This Book I Corresponded Via Computer With People Ranging From William F. Buckley, Jr., To Captain Zap And The MCI Mail-telex Connection Transmitted Last-minute Changes To My Publisher."
+    "tag": "p",
+    "innerHtml": "Chapter 12, “How I Found ‘God’ on MCI (and a Few Other Odds and Ends about Electronic Mail),” tells more about sending computer messages over the phone lines. Some E-mail nets even link up with the old Telex networks. During the writing of this book I corresponded via computer with people ranging from William F. Buckley, Jr., to Captain Zap and the MCI mail-Telex connection transmitted last-minute changes to my publisher."
   },
   {
     "tag": "p",
@@ -561,8 +489,12 @@
     "innerHtml": "You could, however, set up the right retraining program for valued employees to see them through automation. You could fight the Hal Syndrome. You could work to end boring tasks. In short, you could do your best to make your computers benefit both your employees and your company’s earnings."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Kaypro Phenomenon"
   },
   {
     "tag": "p",
@@ -1114,8 +1046,12 @@
     "innerHtml": "So major risks were ahead—inevitable—as Kay girded for his next fights with the valley."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "After The War"
   },
   {
     "tag": "p",
@@ -1310,8 +1246,12 @@
     "innerHtml": "Beyond everything else, Andy Kay had better offer good software to fight rivals selling flat-screen machines similar to his. And WordStar over the years had generally been the most popular word processor for micros."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Wordstar: The Creators"
   },
   {
     "tag": "p",
@@ -1841,8 +1781,12 @@
     "innerHtml": "By now, the sales of personal-computer software exceeded $1.5 billion a year."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Select Word Processor: Martin Dean Versus The Command-driven Restaurants"
   },
   {
     "tag": "p",
@@ -2065,8 +2009,12 @@
     "innerHtml": "Jerry Pournelle, a prominent computer columnist, growled back at the “user friendliness” crowd, saying that their software didn’t let ordinary people enjoy the full power of their machines. “It takes a little work to join the micro revolution,” he said, “but the rewards can be high.”"
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Three Software Stories: Motorcycles, Homes, And The $200,000-A-year Disk"
   },
   {
     "tag": "p",
@@ -2607,7 +2555,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "![icon](images/icon.jpg Graphics \"or How a Mouse Helped Joe Shelton’s Friends Stop Feeling Like Rats\" )"
+    "innerHtml": "![icon](images/icon.jpg Graphics \"or How a Mouse Helped Joe Shelton’s Friends Stop Feeling Like Rats"
   },
   {
     "tag": "p",
@@ -2880,8 +2828,12 @@
     "innerHtml": "Although computers can help you tidy up your work, they themselves can be messy enough unless you know what you’re doing. There’s no substitute for a good computer expert in many cases. And training, too. In the following chapter, you’ll have one answer to “people” problems—the “Who-How Solution.”"
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "People: The Who-how Solution"
   },
   {
     "tag": "p",
@@ -3618,8 +3570,12 @@
     "innerHtml": "Well, so much for relations with humans. Now, how do you survive the computers themselves? How do you choose the best keyboards, screens, etc., for you to live comfortably with your machine? How can people feel in charge of their computers—guarding health, comfort, and productivity against the HAL syndrome?"
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Hal Syndrome"
   },
   {
     "tag": "p",
@@ -4836,8 +4792,12 @@
     "innerHtml": "Sometimes, alas, the easiest-to-use computers may be the ones most vulnerable to computer crime and loss of important information—the subjects of the next chapter."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Jewels That Blip"
   },
   {
     "tag": "p",
@@ -6202,8 +6162,12 @@
     "innerHtml": "This will be especially true as more and more machines swap secrets over the wires between home and office."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Wired To Work"
   },
   {
     "tag": "p",
@@ -7448,8 +7412,12 @@
     "innerHtml": "No matter what, Vu-Write or not, energy crisis or not, think about telecommuting and related innovations before your competitors do. One intelligent step would be the use of electronic mail where appropriate."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "How I Found “God,” On MCI And A Few Other Odds And Ends About Electronic Mail"
   },
   {
     "tag": "p",
@@ -7633,8 +7601,12 @@
     "innerHtml": "Some of the most useful electronic mail can go from person"
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Net Gain$"
   },
   {
     "tag": "p",
@@ -8289,8 +8261,12 @@
     "innerHtml": "In mid-1984, Madden, taking advantage of The WEB, was putting the finishing touches on some software modifications. With them, whenever Carsonville made new sales or bought new supplies, he could instantly see the results on the companies’ general ledger; and just as important, he and his colleagues could easily keep up with the costs of their existing contracts. They could compile a historical record, too, a big help in planning new bids. Now that Carsonville’s computers were talking, the humans might be talking more—about the new business that the sociable machines could help bring their way."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "As The Jungle Thickens Aka The Great Modeming"
   },
   {
     "tag": "p",
@@ -8841,8 +8817,12 @@
     "innerHtml": "But if computer users not only chose their machines and software well but <em>used</em> them well, if they formed users groups rather than trust peripatetic sales reps, if they avoided technobullies and hired consultants carefully, if they trained employees in a nonintimidating way, if they computerized humanely as well as efficiently, if they safeguarded their data security, if they prepared for the future through telecommuting when appropriate, if they showed persistence and sense, enough rewards were there, and they’d find the Silicon Jungle to be not only survivable but friendly."
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg"
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Afterword"
   },
   {
     "tag": "p",
@@ -9117,8 +9097,16 @@
     "innerHtml": "BACKUP: More Tips and Tales from the Jungle"
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Twenty-six Questions To Ask At (And About The Computer Store"
+  },
+  {
     "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Twenty-Six Questions to Ask at (and About the Computer Store\"> )"
+    "innerHtml": ")"
   },
   {
     "tag": "p",
@@ -9823,8 +9811,12 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP II <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"A Few Grouchy Words on Printers\">"
+    "tag": "h2",
+    "innerHtml": "Backup II"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "A Few Grouchy Words On Printers"
   },
   {
     "tag": "p",
@@ -10185,8 +10177,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP III <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"The Lucky 13: What to Look for in Choosing Software\">"
+    "tag": "h2",
+    "innerHtml": "Backup III"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Lucky 13: What To Look For In Choosing Software"
   },
   {
     "tag": "p",
@@ -10519,8 +10515,12 @@
     "innerHtml": "Ideally, software manufacturers like MicroPro will not only offer technical support but also 800 numbers so you won’t be on hold for twenty minutes, racking up a formidable long-distance bill."
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP IV <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"On the Evolution of Software And a “Perfecter and Perfecter” Program\">"
+    "tag": "h2",
+    "innerHtml": "Backup IV"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "On The Evolution Of Software And A “Perfecter And Perfecter” Program"
   },
   {
     "tag": "p",
@@ -10731,8 +10731,12 @@
     "innerHtml": "Many of the improvements of the new Perfect Writer fall into the category of kludge: lots of flashing lights and ringing bells and chrome and racing stripes and wow, look at that dashboard! Perfect Writer is still the best word-processing program I’ve ever run across, but for those of you who don’t want to give up your 64K non-IBM PCs, don’t worry: you’re not missing enough to make spending all that money worthwhile."
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP V <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"3-D Versus Mail-Order Software—and How to Shop\">"
+    "tag": "h2",
+    "innerHtml": "Backup V"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "3-D Versus Mail-order Software—and How To Shop"
   },
   {
     "tag": "p",
@@ -10852,7 +10856,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "![icon](images/icon.jpg “Easy Data Bases.\" )"
+    "innerHtml": "![icon](images/icon.jpg “Easy Data Bases."
   },
   {
     "tag": "p",
@@ -11064,8 +11068,12 @@
     "innerHtml": "It’s really quite simple?"
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP VII <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Graphics Tips\">"
+    "tag": "h2",
+    "innerHtml": "Backup VII"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Graphics Tips"
   },
   {
     "tag": "p",
@@ -11411,8 +11419,12 @@
     "innerHtml": "Whatever your graphics program, don’t stint on the hardware. A good, sharp, high-resolution screen is just as important—more so, in fact—as it is in word processing."
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP VIII <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Consultant Contracts:\">"
+    "tag": "h2",
+    "innerHtml": "Backup VIII"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Consultant Contracts:"
   },
   {
     "tag": "p",
@@ -11467,8 +11479,12 @@
     "innerHtml": "If the job is simple enough, don’t negotiate in the same detail that GM does when installing a $10-million mainframe. Again, even with small tasks, do sign a contract or write a letter similar to the sample one on page 114. And if you can afford it and the job’s important enough, think about still-another contract—for a second consultant to check up on the first."
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP IX <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Window Shopping\">"
+    "tag": "h2",
+    "innerHtml": "Backup IX"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Window Shopping"
   },
   {
     "tag": "p",
@@ -11551,8 +11567,12 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP X <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Of Mice and Men—and Touch Pads, Touch Screens, Etc.\">"
+    "tag": "h2",
+    "innerHtml": "Backup X"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Of Mice And Men—and Touch Pads, Touch Screens, Etc."
   },
   {
     "tag": "p",
@@ -11641,8 +11661,12 @@
     "innerHtml": "What cursor-control gizmos are ahead? I’ll keep reading the National Enquirer articles about people moving objects with their minds. Maybe, the hard-core hackers are thinking, the next gimmick will feature some user-friendly ESP."
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP XI <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"The Micro Connection: Some Critical Explanations\">"
+    "tag": "h2",
+    "innerHtml": "Backup XI"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Micro Connection: Some Critical Explanations"
   },
   {
     "tag": "p",
@@ -11870,7 +11894,15 @@
   },
   {
     "tag": "h3",
+    "innerHtml": "Backup XII"
+  },
+  {
+    "tag": "hr",
     "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Modem7: An Almost-free And Fairly Easy Way To Talk To Other Computers"
   },
   {
     "tag": "p",
@@ -12529,8 +12561,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "BACKUP XIII <img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-silicon-jungle/master/assets/images/icon.jpg\" alt=\"icon\" title=\"Why Not an Electronic Peace Corps?\">"
+    "tag": "h2",
+    "innerHtml": "Backup XIII"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Why Not An Electronic Peace Corps?"
   },
   {
     "tag": "p",
@@ -12735,19 +12771,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre> 377Accounting software\n Accounting Plus,  \n case example,  \n Acoustically coupled modem,  –50\n Alphanumeric field,  –82\n Alternate key, definition of,  \n AND,  \n APPEND command,  \n Applications programs,  \n Area chart,  \n ASCII,  \n Asynchronous communications,  \n Audit trail,  \n Automatic dialing, modems,  –52\n Backups\n avoiding crashes,  –94\n hard disks,  –97\n lap-sized portables,  \n scratch disk,  \n Bar charts,  \n Barnaby, Rob,  \n Baseband,  \n Bidirectional printers,  \n Bit,  \n Bit mapping, graphics,  \n Black boxes,  \n Block move, definition of,  \n Blocks,  \n Boland, Ed,  –78\n Boldface feature,  \n Bowie, Charlie,  –86\n Broadband,  \n Bubble memory, data security and,  \n Buffer,  \n Bugs,  \n A bus, network lay-out,  –45\n Buying a computer\n key questions for,  –92\n printers,  –301\n software,  –309\n used computers,  –93\n Byte,  \n Calculations,  \n Captain Zap,  \n Capture ability, modem,  \n Cataracts, VDTs and,  \n Cathode ray tube (CRT), Kaypro,  \n Cells,  \n Central processing unit (CPU),  \n Character-based systems, graphics,  \n Character field,  \n Characters, size/shape,  \n 378Charts, _See_ .\n Check sum,  \n Clarke, Arthur, C.,  –70\n CMOS (Complementary Metal Oxide Semiconductor),  \n Coaxial cable,  –47\n Colors, use in graphics,  –37\n Command-driven systems,  –72\n Command files,  \n Compatibility, Kaypro and IBM,  –21\n Composite monitor,  \n Computer-aided design/computer-aided manufacturing (CAD/CAM),  \n Computer Classified Bluebook,  \n Computer conferencing,  \n Computer crime,  –99\n data diddling,  –67\n data leakage,  –73\n dial-up computers, protection of,  –91\n employee policy and,  –83\n impersonation,  –76\n logic bomb,  \n overwriting as protection,  –92\n passwords and,  –89\n piggybacking,  –74\n protection against,  –86\n rounding interest downward,  –69\n sample auditing,  –66\n scavenging,  \n simulation,  –72\n small businesses and,  \n superzapping,  –70\n TAP,  –77\n trapdoor/backdoor,  –71\n Trojan horse tricks,  –68\n wiretapping,  \n Computer furniture, selection of,  –49\n Computerized pacing,  \n Computers, future developments,  –67\n Conductors,  \n Consultants,  –115\n aspects of hiring decision,  –113\n case examples,  –106\n contracts, guidelines for,  –42\n microcomputer field and,  –106\n qualifications of,  –13\n salesmen/consultants,  \n sample consulting contract,  –15\n Contracts, for consultants,  –42\n Control characters,  \n Control key, definition of,  \n Correspondence quality,  \n CP/M (Control Program for Microcomputers),  \n Crashes, disk crashes,  –93\n Cross-hatch,  \n CRTs, alternatives to,  –62\n Cursor,  \n Curve chart,  \n Customization, source code,  \n Daisy wheel printer,  \n shortcomings of,  –98\n Data-base programs,  –30\n calculations,  –27\n data fields,  –26\n dBASE II,  –83\n InfoStar,  –30\n overhead,  \n 379Perfect Filer \\-27\n sort keys,  \n Data bits,  \n Data diddling,  –67\n Data disk,  \n Data Encryption Standard (DES),  \n Data-entry work,  \n Data fields,  –26\n Data file,  \n Data leakage,  –73\n Data processing, micros and,  –27\n Data record,  \n Data security,  –64\n backups,  –99\n protecting floppies,  –94\n scratch disk and,  \n _See also_ .\n Data transfer, windows,  \n dBASE II,  –83\n features of,  –82\n training time,  \n Dean, Martin,  –68\n Defaults,  \n Designer’s Guide to Creating Charts and Diagrams (Holmes),  \n Dial-up computers, protection of,  –91\n Digital voltmeter, Kay’s,  \n Digitizing tablet,  \n Direct-connect modem,  –50\n Disk-based word processor,  \n Disk crashes,  –93\n Disk drive\n head of,  \n twin,  –24\n Disks, rules for protection of,  –94\n Documentation,  \n evaluation of,  \n Dot matrix printer,  –95\n size of characters,  \n Double-density feature, Kaypro,  \n Draft quality,  \n Dvorak keyboard,  \n EBCDIC,  \n Echo back,  \n Echo mode,  –58\n EDIT command,  \n 8088 Chip,  \n Electroluminescent screens,  \n Electronic bulletin boards,  \n Electronic Information Exchange System (EIES),  \n Electronic mail,  –33\n advantages of,  –31\n capabilities of,  –29\n computer conferencing,  \n negative aspects of,  –32\n Electropheretic screens,  \n Encryption,  \n Environmental factors, _See_ Ergonomics.\n Epson,  \n Ergonomics,  –62\n air conditioning/heat/ventilation,  \n aspects of good ergonomics,  –30\n back/muscular problems,  –57\n computerized pacing,  –37\n CRTs,  –60\n eyestrain,  –59\n furniture, selection of,  –49\n health factors, VDTs,  –54\n keyboard, selection of,  –47\n lighting,  –51\n liquid-crystal displays (LCDs),  –62\n 380noise reduction, printers,  –52\n participatory monitoring,  –38\n psychological problems,  –58\n radiation from VDTs,  –56\n screen, selection of,  –43\n word processing operations,  –35\n Error-checking, modem,  \n Escape key, definition of,  \n Ethernet,  –47\n Expansion slot,  \n Extremely low frequency radiation (ELF),  \n Eyestrain, computer use and,  –59\n Field,  \n Field names,  \n Field type,  \n Field width,  \n File\n data base,  \n definition of,  \n File locking,  \n File server,  \n Filters, for glare,  \n Flat screens,  \n weaknesses of,  –62\n Flow control,  \n Foot candles,  \n Full duplex modem,  \n Glare,  –51\n filters for,  \n Global search,  \n Graphics,  –38\n area charts,  \n bar charts,  \n choosing a program,  –38\n colors, use of,  –37\n cross-hatch,  \n curve charts,  \n graphics tablet,  \n grid lines,  \n line charts,  \n Macintosh,  –96\n PERT programs and,  –99\n pie chart,  \n professionals’ use of,  –98\n simplicity, importance of,  –35\n vertical bar charts,  \n Grid lines,  \n Ground wires,  \n Hacking,  \n Half-duplex modem,  \n Handshaking,  \n Hard disk\n backups,  –97\n disk crashes and,  \n Kaypro 10,  –35\n storage capacity,  –87\n Head, of disk drive,  \n Health factors, computerized pacing and,  \n _See also_ .\n Heat, VDTs and,  \n Help messages,  \n Highland, Harold Joseph,  –65\n Human-machine link, _See_ .\n IBM, keyboard problems,  \n Icons,  \n Impersonation,  –76\n Information services,  –26\n InfoStar,  –30\n commands,  \n documentation,  \n shortcomings of,  –30\n Ink jet printer,  \n 381Integrated software, Lotus 1-2-3,  –91\n Integrity,  \n Intelligent modems,  \n Interrupt driven,  \n Job design,  –34\n Joystick,  –48\n Justification,  \n K,  \n Kay, Andy,  \n Kay, David,  \n Kaypro,  –44\n advertising of,  –31\n competition to,  –44\n CP/M operating system,  –23\n CRT of,  \n disk drives,  –24\n flat-screen model,  –43\n growth of company,  –35\n hard disk,  \n Kaypro 16,  –42\n Kaypro 10,  \n Kaypro II,  –41\n keyboard,  –25\n metal case of,  \n monitor of,  –31\n Osborne as competitor,  –16\n public relations campaign,  –32\n 64K Random-Access Memory (RAM),  –22\n weaknesses of,  –43\n Z80-style microprocessor,  –21\n Keyboard\n detachable,  \n factors in selection of,  –147\n function keys,  \n Qwerty vs. Dvorak,  \n tactile feedback,  \n Kopischiansky, Frank,  –18\n Lap-sized portables\n backups,  \n data security,  \n static problems,  –98\n Laser printer,  \n Letter quality,  \n Lighting,  –51\n filters, types of,  \n glare problem,  –51\n solutions to problem of,  –50\n Light pen,  \n Line chart,  \n Liquid-crystal displays (LCDs),  \n LIST command,  \n Local area networks,  –48\n a bus topology,  –45\n baseband/broadband\n capacities,  \n considerations in choice of,  –39\n ease of use,  –41\n Ethernet,  \n file locking,  \n installation factors,  \n interrupt driven,  \n multi-user-system micro,  \n protocol,  \n queuing,  \n a ring topology,  –46\n shielded wire,  –47\n speed and,  –40\n a star topology,  \n telephone style,  \n twisted pair network,  –47\n user-privilege levels,  \n WEB network,  –41\n Logical field,  \n 382Logic bomb,  \n Lotus 1-2-3,  –91\n graphics,  \n printing options,  –91\n Lux,  \n MacInker,  \n Macintosh,  \n graphics,  –96\n mouse,  \n Macro language,  \n Mahoney, Jim,  \n Maintenance\n contracts for,  –90\n MTBF figures,  –90\n Mass storage,  \n “Mature” software,  \n McDonald, Bill,  –26\n MCI Mail,  \n _See also_ .\n Memory, random-access\n memory (64K),  –22\n Menu,  –305\n definition of,  \n Menu-driven software,  \n MEX,  \n Meyer, Eric,  –70\n Microprism Model 480,  \n Microprocessor,  \n Z80,  –21\n MicroPro International,  \n Modem,  –65\n acoustically coupled,  \n automatic dialing,  –52\n bits,  \n capture ability,  \n communication with Sri Lanka,  –70\n direct-connect,  –50\n full duplex modem,  \n protocols,  \n synchronous/asynchronous communications,  \n MODEM7,  –65\n instructions for use of,  –65\n summary of commands,  –65\n Modular plugs,  \n Monochrome screen,  \n Mouse,  –46\n MS-DOS,  \n MTFB figures,  \n Multiplan,  –85\n Multi-user-system micro,  \n Munytels,  \n Natural order of recalculation,  \n Near-letter quality,  \n NEC,  \n Networks,  \n NewWord,  \n Node,  \n Noise, reduction, from printers,  –52\n Non-Linear Systems,  \n Null modem,  \n Numeric field,  \n Omninet,  \n Operating systems\n choice in computer buying,  –86\n CP/M,  –23\n MS-DOS,  \n UNIX,  –86\n Optical character reader,  \n OR,  \n Osborne, Adam,  –37\n Osborne Computers\n Kaypro competition,  –35\n 383problems of,  –33\n Overhead,  \n Overlapping, windows,  \n Overwriting,  –92\n Packet switching,  \n Paperback Software International,  \n Parallel port,  \n Participating monitoring,  \n Passwords,  –89\n Patch,  \n PC-TALK III,  \n Perfect Filer,  –27\n Perfect Writer,  –18\n improvements in,  –15\n Perfect Thesaurus,  \n pop-up commands menu,  \n weaknesses of,  –318\n Pie chart,  \n Pivot,  \n Plasma panel,  \n Point-of-sales system,  \n Port,  \n Pregnancy, VDTs and,  \n Printers,  –301\n bidirectional,  \n buffer,  \n compatibility with computer,  \n cost,  \n daisy wheel,  \n ink jet printer,  \n laser,  \n noise level,  \n noise reduction,  –52\n ports,  \n printer quality,  \n repair record,  \n ribbons,  \n special features,  \n thermal-transfer printer,  \n unidirectional,  \n volume,  \n Programmers,  –26\n Project Evaluation Review Techniques (PERT software,  –99 ) </pre>"
+    "innerHtml": "<pre> 377Accounting software\n Accounting Plus,  \n case example,  \n Acoustically coupled modem, \n Alphanumeric field, \n Alternate key, definition of,  \n AND,  \n APPEND command,  \n Applications programs,  \n Area chart,  \n ASCII,  \n Asynchronous communications,  \n Audit trail,  \n Automatic dialing, modems, \n Backups\n avoiding crashes, \n hard disks, \n lap-sized portables,  \n scratch disk,  \n Bar charts,  \n Barnaby, Rob,  \n Baseband,  \n Bidirectional printers,  \n Bit,  \n Bit mapping, graphics,  \n Black boxes,  \n Block move, definition of,  \n Blocks,  \n Boland, Ed, \n Boldface feature,  \n Bowie, Charlie, \n Broadband,  \n Bubble memory, data security and,  \n Buffer,  \n Bugs,  \n A bus, network lay-out, \n Buying a computer\n key questions for, \n printers, \n software, \n used computers, \n Byte,  \n Calculations,  \n Captain Zap,  \n Capture ability, modem,  \n Cataracts, VDTs and,  \n Cathode ray tube (CRT), Kaypro,  \n Cells,  \n Central processing unit (CPU),  \n Character-based systems, graphics,  \n Character field,  \n Characters, size/shape,  \n 378Charts, _See_ .\n Check sum,  \n Clarke, Arthur, C., \n CMOS (Complementary Metal Oxide Semiconductor),  \n Coaxial cable, \n Colors, use in graphics, \n Command-driven systems, \n Command files,  \n Compatibility, Kaypro and IBM, \n Composite monitor,  \n Computer-aided design/computer-aided manufacturing (CAD/CAM),  \n Computer Classified Bluebook,  \n Computer conferencing,  \n Computer crime, \n data diddling, \n data leakage, \n dial-up computers, protection of, \n employee policy and, \n impersonation, \n logic bomb,  \n overwriting as protection, \n passwords and, \n piggybacking, \n protection against, \n rounding interest downward, \n sample auditing, \n scavenging,  \n simulation, \n small businesses and,  \n superzapping, \n TAP, \n trapdoor/backdoor, \n Trojan horse tricks, \n wiretapping,  \n Computer furniture, selection of, \n Computerized pacing,  \n Computers, future developments, \n Conductors,  \n Consultants, \n aspects of hiring decision, \n case examples, \n contracts, guidelines for, \n microcomputer field and, \n qualifications of, \n salesmen/consultants,  \n sample consulting contract, \n Contracts, for consultants, \n Control characters,  \n Control key, definition of,  \n Correspondence quality,  \n CP/M (Control Program for Microcomputers),  \n Crashes, disk crashes, \n Cross-hatch,  \n CRTs, alternatives to, \n Cursor,  \n Curve chart,  \n Customization, source code,  \n Daisy wheel printer,  \n shortcomings of, \n Data-base programs, \n calculations, \n data fields, \n dBASE II, \n InfoStar, \n overhead,  \n 379Perfect Filer \\-27\n sort keys,  \n Data bits,  \n Data diddling, \n Data disk,  \n Data Encryption Standard (DES),  \n Data-entry work,  \n Data fields, \n Data file,  \n Data leakage, \n Data processing, micros and, \n Data record,  \n Data security, \n backups, \n protecting floppies, \n scratch disk and,  \n _See also_ .\n Data transfer, windows,  \n dBASE II, \n features of, \n training time,  \n Dean, Martin, \n Defaults,  \n Designer’s Guide to Creating Charts and Diagrams (Holmes),  \n Dial-up computers, protection of, \n Digital voltmeter, Kay’s,  \n Digitizing tablet,  \n Direct-connect modem, \n Disk-based word processor,  \n Disk crashes, \n Disk drive\n head of,  \n twin, \n Disks, rules for protection of, \n Documentation,  \n evaluation of,  \n Dot matrix printer, \n size of characters,  \n Double-density feature, Kaypro,  \n Draft quality,  \n Dvorak keyboard,  \n EBCDIC,  \n Echo back,  \n Echo mode, \n EDIT command,  \n 8088 Chip,  \n Electroluminescent screens,  \n Electronic bulletin boards,  \n Electronic Information Exchange System (EIES),  \n Electronic mail, \n advantages of, \n capabilities of, \n computer conferencing,  \n negative aspects of, \n Electropheretic screens,  \n Encryption,  \n Environmental factors, _See_ Ergonomics.\n Epson,  \n Ergonomics, \n air conditioning/heat/ventilation,  \n aspects of good ergonomics, \n back/muscular problems, \n computerized pacing, \n CRTs, \n eyestrain, \n furniture, selection of, \n health factors, VDTs, \n keyboard, selection of, \n lighting, \n liquid-crystal displays (LCDs), \n 380noise reduction, printers, \n participatory monitoring, \n psychological problems, \n radiation from VDTs, \n screen, selection of, \n word processing operations, \n Error-checking, modem,  \n Escape key, definition of,  \n Ethernet, \n Expansion slot,  \n Extremely low frequency radiation (ELF),  \n Eyestrain, computer use and, \n Field,  \n Field names,  \n Field type,  \n Field width,  \n File\n data base,  \n definition of,  \n File locking,  \n File server,  \n Filters, for glare,  \n Flat screens,  \n weaknesses of, \n Flow control,  \n Foot candles,  \n Full duplex modem,  \n Glare, \n filters for,  \n Global search,  \n Graphics, \n area charts,  \n bar charts,  \n choosing a program, \n colors, use of, \n cross-hatch,  \n curve charts,  \n graphics tablet,  \n grid lines,  \n line charts,  \n Macintosh, \n PERT programs and, \n pie chart,  \n professionals’ use of, \n simplicity, importance of, \n vertical bar charts,  \n Grid lines,  \n Ground wires,  \n Hacking,  \n Half-duplex modem,  \n Handshaking,  \n Hard disk\n backups, \n disk crashes and,  \n Kaypro 10, \n storage capacity, \n Head, of disk drive,  \n Health factors, computerized pacing and,  \n _See also_ .\n Heat, VDTs and,  \n Help messages,  \n Highland, Harold Joseph, \n Human-machine link, _See_ .\n IBM, keyboard problems,  \n Icons,  \n Impersonation, \n Information services, \n InfoStar, \n commands,  \n documentation,  \n shortcomings of, \n Ink jet printer,  \n 381Integrated software, Lotus 1-2-3, \n Integrity,  \n Intelligent modems,  \n Interrupt driven,  \n Job design, \n Joystick, \n Justification,  \n K,  \n Kay, Andy,  \n Kay, David,  \n Kaypro, \n advertising of, \n competition to, \n CP/M operating system, \n CRT of,  \n disk drives, \n flat-screen model, \n growth of company, \n hard disk,  \n Kaypro 16, \n Kaypro 10,  \n Kaypro II, \n keyboard, \n metal case of,  \n monitor of, \n Osborne as competitor, \n public relations campaign, \n 64K Random-Access Memory (RAM), \n weaknesses of, \n Z80-style microprocessor, \n Keyboard\n detachable,  \n factors in selection of, \n function keys,  \n Qwerty vs. Dvorak,  \n tactile feedback,  \n Kopischiansky, Frank, \n Lap-sized portables\n backups,  \n data security,  \n static problems, \n Laser printer,  \n Letter quality,  \n Lighting, \n filters, types of,  \n glare problem, \n solutions to problem of, \n Light pen,  \n Line chart,  \n Liquid-crystal displays (LCDs),  \n LIST command,  \n Local area networks, \n a bus topology, \n baseband/broadband\n capacities,  \n considerations in choice of, \n ease of use, \n Ethernet,  \n file locking,  \n installation factors,  \n interrupt driven,  \n multi-user-system micro,  \n protocol,  \n queuing,  \n a ring topology, \n shielded wire, \n speed and, \n a star topology,  \n telephone style,  \n twisted pair network, \n user-privilege levels,  \n WEB network, \n Logical field,  \n 382Logic bomb,  \n Lotus 1-2-3, \n graphics,  \n printing options, \n Lux,  \n MacInker,  \n Macintosh,  \n graphics, \n mouse,  \n Macro language,  \n Mahoney, Jim,  \n Maintenance\n contracts for, \n MTBF figures, \n Mass storage,  \n “Mature” software,  \n McDonald, Bill, \n MCI Mail,  \n _See also_ .\n Memory, random-access\n memory (64K), \n Menu, \n definition of,  \n Menu-driven software,  \n MEX,  \n Meyer, Eric, \n Microprism Model 480,  \n Microprocessor,  \n Z80, \n MicroPro International,  \n Modem, \n acoustically coupled,  \n automatic dialing, \n bits,  \n capture ability,  \n communication with Sri Lanka, \n direct-connect, \n full duplex modem,  \n protocols,  \n synchronous/asynchronous communications,  \n MODEM7, \n instructions for use of, \n summary of commands, \n Modular plugs,  \n Monochrome screen,  \n Mouse, \n MS-DOS,  \n MTFB figures,  \n Multiplan, \n Multi-user-system micro,  \n Munytels,  \n Natural order of recalculation,  \n Near-letter quality,  \n NEC,  \n Networks,  \n NewWord,  \n Node,  \n Noise, reduction, from printers, \n Non-Linear Systems,  \n Null modem,  \n Numeric field,  \n Omninet,  \n Operating systems\n choice in computer buying, \n CP/M, \n MS-DOS,  \n UNIX, \n Optical character reader,  \n OR,  \n Osborne, Adam, \n Osborne Computers\n Kaypro competition, \n 383problems of, \n Overhead,  \n Overlapping, windows,  \n Overwriting, \n Packet switching,  \n Paperback Software International,  \n Parallel port,  \n Participating monitoring,  \n Passwords, \n Patch,  \n PC-TALK III,  \n Perfect Filer, \n Perfect Writer, \n improvements in, \n Perfect Thesaurus,  \n pop-up commands menu,  \n weaknesses of, \n Pie chart,  \n Pivot,  \n Plasma panel,  \n Point-of-sales system,  \n Port,  \n Pregnancy, VDTs and,  \n Printers, \n bidirectional,  \n buffer,  \n compatibility with computer,  \n cost,  \n daisy wheel,  \n ink jet printer,  \n laser,  \n noise level,  \n noise reduction, \n ports,  \n printer quality,  \n repair record,  \n ribbons,  \n special features,  \n thermal-transfer printer,  \n unidirectional,  \n volume,  \n Programmers, \n Project Evaluation Review Techniques (PERT software,  ) </pre>"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre> Proportional spacing,  \n Protocols\n local area networks,  \n modems,  \n Psychological factors, computers and,  –58\n Public key encryption system,  \n Queuing,  \n Quietwriter,  \n Qwerty keyboard,  \n Radiation,  –56\n extremely low-frequency radiation,  \n VDTs and pregnancy,  –54\n very low-frequency radiation,  \n Ragged right margins,  \n RAM-based word processor,  \n Random-Access Memory (RAM 64K,  –22 ) </pre>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<pre> Read-Only Memory (ROM),  \n Real-time systems,  \n Records, data base,  \n Reverse video,  \n RGB monitor,  \n Ribbons, for printers,  \n A ring, network lay-out,  –46\n Robie,  \n Rubinstein, Seymour,  \n 384Scavenging,  \n Scratch disk,  \n Screen\n color of,  \n electroluminescent screens,  \n electropheretic screens,  \n factors in selection of,  –43\n flat screens,  \n plasma panel,  \n reverse video,  \n Scroll, definition of,  \n Search and replace, definition of,  \n Seequa Computer Corporation,  \n Select,  –72\n training time,  \n versus WordStar,  –68\n Serial, port,  \n Simulation,  –72\n Software\n accounting,  –78\n buying of,  –22\n command-driven,  –72\n copying of, rationale for,  –60\n graphics,  –38\n integrated software,  \n mail-order buying of,  –21\n menu-driven,  –72\n spreadsheet programs,  –85\n windows,  \n word processors,  –72\n Sorting,  \n sort keys,  \n Speech recognition,  \n Spellbinder,  \n Spelling checkers,  \n Split screens,  \n Spreadsheet programs\n Multiplan,  –85\n origins of,  \n requirements of,  –90\n VisiCalc,  \n A star, network lay-out,  \n Start bits,  \n Stop bits,  \n Storage, hard disk,  –87\n Structure, data base,  \n Synchronous communications,  \n Tactile feedback,  \n TAP,  –77\n Telecommuting,  –227\n clerical workers and,  –210\n considerations in,  –206\n data base information\n services,  –26\n data base requirements,  \n economic benefits of,  \n electronic bulletin boards,  \n energy implications,  –20\n munytels,  –17\n networks,  \n packet switching,  \n psychological factors,  –21\n suburban versus downtown\n offices,  –16\n Telephone style network,  \n Terminal mode,  –58\n Terminals,  \n Thermal-transfer printer,  \n Tile, windows,  \n Token passing,  –46\n Touch-sensitive screen,  \n Trackball,  \n Tractor feed,  \n Training,  –24\n aspects in choice of\n programs,  –20\n 385case examples,  –22\n self-instruction,  \n Trapdoor/backdoor crime,  –71\n Trojan horse tricks,  –68\n Twin disk drives,  –24\n Twisted pair network,  \n Unidirectional printers,  \n UNIX,  \n operating system of,  –86\n Used computers, buying guidelines,  –93\n User-privilege levels,  \n VDTs\n cataracts and,  \n radiation and,  –56\n Ventilation, computers and,  \n Vertical bar charts,  \n Very low-frequency (VLF radiation, ) </pre>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<pre> Victor 9000,  –76\n VisiCalc,  –88\n Voice grade lines,  \n Wangnet,  –47\n Ward Christensen Protocol,  \n WEB network,  –41\n What-if tables,  \n Windows,  –45\n buying guidelines,  –45\n Wiretapping,  \n Word length, modem,  \n Word processing operations, job design,  –35\n Word processor\n dedicated versus micro,  \n Perfect Writer,  –18\n Select,  –72\n Spellbinder,  \n terms used,  –48\n WordStar,  –309\n WordStar,  –309\n accessory programs,  –309\n anti-botch-up-features,  –307\n creation of,  –54\n customization of,  \n damage limitation,  \n documentation,  \n ease of use,  –304\n error messages,  \n “Help” levels,  \n manufacturer support,  \n maturity of,  \n power of,  –306\n search-and-replace feature,  \n speed of,  \n strengths of,  –47\n training time,  \n word processing terms,  –48\n WordStar 2000,  –11\n Word wrap,  \n Work station,  \n XMODEM Protocol,  \n XON/XOFF,  \n Yank-back feature,  \n Z80 microprocessor, Kaypro,  –21</pre>"
+    "innerHtml": "<pre> Proportional spacing,  \n Protocols\n local area networks,  \n modems,  \n Psychological factors, computers and, \n Public key encryption system,  \n Queuing,  \n Quietwriter,  \n Qwerty keyboard,  \n Radiation, \n extremely low-frequency radiation,  \n VDTs and pregnancy, \n very low-frequency radiation,  \n Ragged right margins,  \n RAM-based word processor,  \n Random-Access Memory (RAM 64K,  ) \n Read-Only Memory (ROM),  \n Real-time systems,  \n Records, data base,  \n Reverse video,  \n RGB monitor,  \n Ribbons, for printers,  \n A ring, network lay-out, \n Robie,  \n Rubinstein, Seymour,  \n 384Scavenging,  \n Scratch disk,  \n Screen\n color of,  \n electroluminescent screens,  \n electropheretic screens,  \n factors in selection of, \n flat screens,  \n plasma panel,  \n reverse video,  \n Scroll, definition of,  \n Search and replace, definition of,  \n Seequa Computer Corporation,  \n Select, \n training time,  \n versus WordStar, \n Serial, port,  \n Simulation, \n Software\n accounting, \n buying of, \n command-driven, \n copying of, rationale for, \n graphics, \n integrated software,  \n mail-order buying of, \n menu-driven, \n spreadsheet programs, \n windows,  \n word processors, \n Sorting,  \n sort keys,  \n Speech recognition,  \n Spellbinder,  \n Spelling checkers,  \n Split screens,  \n Spreadsheet programs\n Multiplan, \n origins of,  \n requirements of, \n VisiCalc,  \n A star, network lay-out,  \n Start bits,  \n Stop bits,  \n Storage, hard disk, \n Structure, data base,  \n Synchronous communications,  \n Tactile feedback,  \n TAP, \n Telecommuting, \n clerical workers and, \n considerations in, \n data base information\n services, \n data base requirements,  \n economic benefits of,  \n electronic bulletin boards,  \n energy implications, \n munytels, \n networks,  \n packet switching,  \n psychological factors, \n suburban versus downtown\n offices, \n Telephone style network,  \n Terminal mode, \n Terminals,  \n Thermal-transfer printer,  \n Tile, windows,  \n Token passing, \n Touch-sensitive screen,  \n Trackball,  \n Tractor feed,  \n Training, \n aspects in choice of\n programs, \n 385case examples, \n self-instruction,  \n Trapdoor/backdoor crime, \n Trojan horse tricks, \n Twin disk drives, \n Twisted pair network,  \n Unidirectional printers,  \n UNIX,  \n operating system of, \n Used computers, buying guidelines, \n User-privilege levels,  \n VDTs\n cataracts and,  \n radiation and, \n Ventilation, computers and,  \n Vertical bar charts,  \n Very low-frequency (VLF radiation, ) \n Victor 9000, \n VisiCalc, \n Voice grade lines,  \n Wangnet, \n Ward Christensen Protocol,  \n WEB network, \n What-if tables,  \n Windows, \n buying guidelines, \n Wiretapping,  \n Word length, modem,  \n Word processing operations, job design, \n Word processor\n dedicated versus micro,  \n Perfect Writer, \n Select, \n Spellbinder,  \n terms used, \n WordStar, \n WordStar, \n accessory programs, \n anti-botch-up-features, \n creation of, \n customization of,  \n damage limitation,  \n documentation,  \n ease of use, \n error messages,  \n “Help” levels,  \n manufacturer support,  \n maturity of,  \n power of, \n search-and-replace feature,  \n speed of,  \n strengths of, \n training time,  \n word processing terms, \n WordStar 2000, \n Word wrap,  \n Work station,  \n XMODEM Protocol,  \n XON/XOFF,  \n Yank-back feature,  \n Z80 microprocessor, Kaypro, </pre>"
   },
   {
     "tag": "hr",
